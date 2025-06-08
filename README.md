@@ -30,7 +30,7 @@ To run this game in your terminal, follow the steps below:
 - **Programming language**: Python
 
 ## TODO
-- [ ] Add more words and options to the game.
-- [ ] Add the scoring system.
-- [ ] Design a beautiful GUI.
+- [ ] Design a GUI for the program to be able to run it as an executable application.
+- [ ] Add a database based on SQLite3 to the program.
+- [ ] Add new features and improve performance.
      
